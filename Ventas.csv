@@ -1,0 +1,8 @@
+ID cliente,Nombre cliente,Codigo de producto,Descripcion del producto,Cantidad,Precio$ (unidad),TOTAL $
+1,Nombre y Apellido1,101,Pañales elastizados XG x 40,4,1400.0,5600.0
+1,Nombre y Apellido1,101,Pañales rectos G x 20,5,460.0,2300.0
+3,Nombre y Apellido3,103,Pañales elastizados XG x 40,6,560.0,3360.0
+6,Nombre y Apellido6,106,Pañales rectos G x 20,6,460.0,2760.0
+7,Nombre y Apellido7,107,Pañales rectos G x 20,9,560.0,5040.0
+8,Nombre y Apellido8,108,Pañales elastizados XG x 40,3,1500.0,4500.0
+7,Nombre y Apellido7,107,Pañales rectos G x 20,5,470.0,2350.0

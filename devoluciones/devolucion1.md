@@ -1,5 +1,5 @@
 # Devolución 1
-Fecha: 19-Septiembre-2020
+Fecha: 19-Septiembre-2020\
 Autor: Hernán Contigiani
 
 ## Funcionamiento general del programa
@@ -13,7 +13,7 @@ El único comentario respecto a este archivo es que el nombre del archivo debe e
 El ùnico comentario en este archivo es que la variable __total_max_precio__ utilizada en la línea 595 y 599 no se encuentra inicializada, por lo que no es posible realizar la operacion de incremento += la primera vez que es utilizada y el programa crashea.\
 Faltara inicialzarla para poder utilizar la opción 8 de reporte general.
 
-#### Comentarios
+## Comentarios generales
 - El proyecto alcanza y supera los conceptos vistos en la cursada, excelente el uso de funciones y archivos superando el nivel de contenidos vistos en la cursada.
 - Excelente el uso de funciones para encapsular y no repetir procesos.
 - Muy detallado y bien realizado los menùs y mensajes a los usuarios.

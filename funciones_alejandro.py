@@ -564,6 +564,9 @@ def reporte_venta(ventas): #OPCIÓN 8: REPORTE DE VENTA GENERAL
     que ingresa por parametro
     '''
     print('\n       REPORTE DE VENTA GENERAL\n')
+    #Inicialización de variables
+    total_max_precio = 0
+    total_min_precio = 0
     lista_codigos = {'INICIALIZACION DE SET'}
     acum = 0
 

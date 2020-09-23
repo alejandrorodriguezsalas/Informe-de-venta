@@ -16,10 +16,7 @@
     ![Clonación](/Imagenes/Git%20clone%20Informe-de-venta.png)
 
    * Otra forma es simplemente puede descargar el archivo zip desde el boton verde de arriba
-    1. Paso1: 
-       ![Descarga1](/Imagenes/Descargar%20paso%201.png)
-    2. Paso2: 
-       ![Descarga1](/Imagenes/Descargar%20paso%202.png)
+    
     
 
 - Se agrega al repositorio 3 archivos, Cliente.csv, Producto.csv y Ventas.csv como ejemplo. Para ingresar datos desde cero solo hace falta eliminar esos 3 archivos y ejecutar el programa. Los programas más importante son proyecto.py y funciones_alejandro.py

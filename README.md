@@ -8,24 +8,30 @@
 - El lenguaje del programa esta escrito en Python por lo que es necesario instalar el lenguaje previamente para poder utilizarlo
 - (Opcional) Descargar e instalar un editor de código como Visual Estudio Code 
 ### Ejecución:
-- Se requiere clonar el repositorio para poder utilizar el programa. Para clonarlo desde consola primero se debe ubicar en la carpeta donde desee guardar el programa. Luego debe ingresar la linea git clone junto la URL que desee clonar, en este caso:
-```
-git clone https://github.com/alejandrorodriguezsalas/Informe-de-venta
-```  
-![Clonación](/Imagenes/Git%20clone%20Informe-de-venta.png)
+- Se requiere clonar el repositorio para poder utilizar el programa: 
+    * Para clonarlo desde consola primero se debe ubicar en la carpeta donde desee guardar el programa. Luego debe ingresar la linea git clone junto la URL que desee clonar, en    este caso:
+    ```
+    git clone https://github.com/alejandrorodriguezsalas/Informe-de-venta
+    ```  
+    ![Clonación](/Imagenes/Git%20clone%20Informe-de-venta.png)
 
-O simplemente puede descargar el archivo zip desde el boton verde de arriba
+   * Otra forma es simplemente puede descargar el archivo zip desde el boton verde de arriba
+    1. Paso1: 
+       ![Descarga1](/Imagenes/Descargar%20paso%201.png)
+    2. Paso2: 
+       ![Descarga1](/Imagenes/Descargar%20paso%202.png)
+    
 
 - Se agrega al repositorio 3 archivos, Cliente.csv, Producto.csv y Ventas.csv como ejemplo. Para ingresar datos desde cero solo hace falta eliminar esos 3 archivos y ejecutar el programa. Los programas más importante son proyecto.py y funciones_alejandro.py
-* Se puede ejecutar de dos formas:
+
+- Se puede ejecutar de dos formas:
     1. (RECOMENDADA) Desde windows entrando a simbolo de sistema (cmd): Ubicado dentro de la carpeta Informe-de-venta se debe agregar la linea
     ```
     python proyecto.py
     ```
     
-![Ejecución](/Imagenes/Ejecución%20de%20programa.png)
-    
-    
+    ![Ejecución](/Imagenes/Ejecución%20de%20programa.png)
+
     2. Desde un editor de código que contenga un interprete y una terminal. Ej: Visual Estudio Code
 ### Autor:
 - Nombre y Apellido: Alejandro Rodriguez Salas
